@@ -1,0 +1,11 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! RHF def2-SVP Opt Freq
+
+* xyz 0 1
+   O       -3.66652        1.07500       -0.14860
+   O       -2.43068        1.41636        0.14860
+   H       -4.22966        1.69913        0.37515
+   H       -1.86754        0.79223       -0.37515
+*

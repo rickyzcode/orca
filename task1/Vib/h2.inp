@@ -1,0 +1,8 @@
+! RHF def2-SVP Opt Freq
+# Opt is the jobtype (geometry optimization),
+# Freq is the keyword for frequency calculation. 
+
+* xyz 0 1
+   H       -7.72197        1.87880       -0.00000
+   H       -7.01710        1.81230       -0.00000
+*

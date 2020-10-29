@@ -1,0 +1,24 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! RHF def2-SVP Opt 
+
+* xyz 0 1
+   O       -5.20769       -1.02199        0.01641
+   H       -4.21837       -1.05444       -0.01159
+   H       -5.49706       -1.73904       -0.60223
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+! B3LYP 6-311+G(d,p) OptTS NumFreq
+
+%geom
+Calc_Hess true # Calculate Hessian in the beginning
+NumHess true # Request numerical Hessian (analytical not available)
+Recalc_Hess 5 # Recalculate the Hessian every 5 steps
+end
+
+* xyz -1 1
+  C   -5.74464072785912      1.83021198969132     -0.00013685354415
+  Br  -3.06717054123005      1.98782403237992      0.00478436266002
+  H   -5.65809284300849      1.26986205931311      0.90818788099496
+  H   -5.65823709194337      1.33011295773915     -0.94298985071667
+  H   -5.75246954076519      2.90038107105200      0.03469490624658
+  Cl  -8.14048925519332      1.68917788982434     -0.00454044564074
+*

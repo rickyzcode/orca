@@ -1,0 +1,11 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! RHF STO-3G Opt Freq
+
+* xyz 0 1
+   N       -4.01337        3.39439        0.00000
+   H       -2.99337        3.39439        0.00000
+   H       -4.35337        2.69719        0.66236
+   H       -4.35337        3.16936       -0.93497
+*

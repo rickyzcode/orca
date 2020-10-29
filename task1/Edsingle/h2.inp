@@ -1,0 +1,13 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! RHF def2-SVP Opt
+%geom Scan
+ B 0 1 = 0.5, 2.5, 21
+ end
+end
+
+* xyz 0 1
+   H       -7.72197        1.87880       -0.00000
+   H       -7.01710        1.81230       -0.00000
+*
